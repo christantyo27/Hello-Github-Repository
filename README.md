@@ -5,10 +5,10 @@ If you see this file on my project, it's because I'm learning Git.
 
 My mood:
 
-> Good
+> Good #fff
 
 My favorite color:
 
-> Maroon
+> Maroon #4EC5F1
 
 Thank you so much for reading! ☺
